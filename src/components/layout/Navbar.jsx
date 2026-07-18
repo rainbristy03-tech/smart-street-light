@@ -9,11 +9,8 @@ function Navbar() {
       </h2>
 
       <div className="flex items-center gap-6">
-
         <FaBell size={20} />
-
         <FaUserCircle size={32} />
-
       </div>
 
     </header>
